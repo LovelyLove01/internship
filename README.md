@@ -1,1 +1,1 @@
-# Well log Data Exploration
+# Introduction to data science and machine learning, modelling
